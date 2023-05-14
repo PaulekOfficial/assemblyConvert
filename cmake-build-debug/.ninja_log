@@ -1,0 +1,14 @@
+# ninja log v5
+0	4	1684103849725231593	CMakeFiles/assemblerProject2.dir/binaryTest.asm.o	ff1306b06b981586
+0	13	1684079049801710452	CMakeFiles/assemblerProject2.dir/main.c.o	3cde5fb501db5964
+4	7	1684103849728564929	assemblerProject2	4b3d51f566168ad1
+0	5	1684103918421944066	CMakeFiles/assemblerProject2.dir/binaryTest.asm.o	ff1306b06b981586
+5	8	1684103918425277403	assemblerProject2	4b3d51f566168ad1
+0	4	1684103932811953677	CMakeFiles/assemblerProject2.dir/binaryTest.asm.o	ff1306b06b981586
+4	7	1684103932815287013	assemblerProject2	4b3d51f566168ad1
+0	4	1684104165938776637	CMakeFiles/assemblerProject2.dir/binaryTest.asm.o	ff1306b06b981586
+4	7	1684104165942109973	assemblerProject2	4b3d51f566168ad1
+0	4	1684104187425457757	CMakeFiles/assemblerProject2.dir/binaryTest.asm.o	ff1306b06b981586
+4	7	1684104187428791093	assemblerProject2	4b3d51f566168ad1
+0	5	1684104292585528583	CMakeFiles/assemblerProject2.dir/binaryTest.asm.o	ff1306b06b981586
+5	7	1684104292588861919	assemblerProject2	4b3d51f566168ad1
